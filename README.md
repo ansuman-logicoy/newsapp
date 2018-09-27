@@ -9,12 +9,8 @@
 ![mobile preview](https://cdn-images-1.medium.com/max/800/1*8ONZhhGqrQ6OCagY6ZHjbQ.jpeg)<br /><br />
 
 ---
-
 ## License
 @ansuman_nayak
-
-Royal News is [MIT licensed](./LICENSE).
-
 ---
 
 ***This App uses the 💙 [News API](https://newsapi.org) 💙***
